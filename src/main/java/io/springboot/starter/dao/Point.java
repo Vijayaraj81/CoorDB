@@ -1,4 +1,4 @@
-package io.springboot.starter.model;
+package io.springboot.starter.dao;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
